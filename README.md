@@ -14,7 +14,7 @@
 ### Description
 Stores notes in a JSON file built into the repo. Who needs to store things in SQL anyway.
 
-![sample webpage](/public/assets/screenshot.jpg)
+![sample webpage](./public/assets/screenshot.JPG)
 Deployed at [NoteTaker](https://jordonbobo.github.io/NoteTaker/).
 
 ### How to install
